@@ -1,0 +1,14 @@
+name: evaluation
+channels:
+- conda-forge
+dependencies:
+- python=3.8
+- "libblas=*=*openblas"
+- numpy
+- numba
+- scipy
+- matplotlib
+- pandas
+- jupyterlab
+- pip:
+  - py-cpuinfo
