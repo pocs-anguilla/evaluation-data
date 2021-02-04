@@ -7,7 +7,6 @@
         "ms-toolsai.jupyter",
     ],
     "forwardPorts": [
-        8000,
         8888
     ]
 }
