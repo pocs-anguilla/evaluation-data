@@ -1801,8 +1801,15 @@ CMakeFiles/experiment2.dir/src/experiment2.cpp.o
  /usr/local/include/shark/Algorithms/DirectSearch/Operators/Hypervolume/HypervolumeContributionApproximator.h
  /usr/local/include/shark/Algorithms/DirectSearch/Operators/Hypervolume/HypervolumeContributionMD.h
  /usr/local/include/shark/Algorithms/DirectSearch/Operators/Indicators/AdditiveEpsilonIndicator.h
+ /usr/local/include/shark/Algorithms/DirectSearch/Operators/Indicators/CrowdingDistance.h
  /usr/local/include/shark/Algorithms/DirectSearch/Operators/Indicators/HypervolumeIndicator.h
+ /usr/local/include/shark/Algorithms/DirectSearch/Operators/Indicators/NSGA3Indicator.h
+ /usr/local/include/shark/Algorithms/DirectSearch/Operators/Lattice.h
+ /usr/local/include/shark/Algorithms/DirectSearch/Operators/Mutation/PolynomialMutation.h
+ /usr/local/include/shark/Algorithms/DirectSearch/Operators/Recombination/SimulatedBinaryCrossover.h
  /usr/local/include/shark/Algorithms/DirectSearch/Operators/Selection/IndicatorBasedSelection.h
+ /usr/local/include/shark/Algorithms/DirectSearch/Operators/Selection/TournamentSelection.h
+ /usr/local/include/shark/Algorithms/DirectSearch/RealCodedNSGAII.h
  /usr/local/include/shark/Algorithms/DirectSearch/SteadyStateMOCMA.h
  /usr/local/include/shark/Core/Exception.h
  /usr/local/include/shark/Core/Flags.h
