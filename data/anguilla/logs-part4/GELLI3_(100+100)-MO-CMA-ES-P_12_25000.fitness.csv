@@ -1,4 +1,4 @@
-# Generated with anguilla 0.0.6, numpy 1.19.5
+# Generated with anguilla 0.0.14, numpy 1.19.5
 # Machine: Intel(R) Core(TM) i7-4870HQ CPU @ 2.50GHz, 8 cores
 # OS: Linux 4.19.121-linuxkit
 # Python: 3.8.6
@@ -10,7 +10,7 @@
 # Function-specific seed: None
 # Trial: 12
 # Evaluations: 25000
-# Elapsed time (wall-clock): 16.21s
+# Elapsed time (wall-clock): 21.07s
 # Observation: fitness
 # 
 1.983259533912006418e+02,1.996434490996643376e+02,1.971400277269461867e+02
