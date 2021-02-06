@@ -1,5 +1,5 @@
-# Generated with anguilla 0.0.6, numpy 1.20.0
-# Machine: Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz, 8 cores
+# Generated with anguilla 0.0.14, numpy 1.19.5
+# Machine: Intel(R) Core(TM) i7-4870HQ CPU @ 2.50GHz, 8 cores
 # OS: Linux 4.19.121-linuxkit
 # Python: 3.8.6
 # Optimizer: (100+1)-MO-CMA-ES-I
@@ -10,7 +10,7 @@
 # Function-specific seed: None
 # Trial: 12
 # Evaluations: 35000
-# Elapsed time (wall-clock): 69.98s
+# Elapsed time (wall-clock): 91.95s
 # Observation: fitness
 # 
 7.859693733976719603e-17,1.283585396123836597e+00,5.693516827449519591e-01
