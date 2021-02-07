@@ -1,4 +1,4 @@
-# Generated with anguilla 0.0.6, numpy 1.20.0
+# Generated with anguilla 0.0.15, numpy 1.20.0
 # Machine: Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz, 8 cores
 # OS: Linux 4.19.121-linuxkit
 # Python: 3.8.6
@@ -10,7 +10,7 @@
 # Function-specific seed: None
 # Trial: 25
 # Evaluations: 20000
-# Elapsed time (wall-clock): 47.47s
+# Elapsed time (wall-clock): 42.01s
 # Observation: step_size
 # 
 1.967938530082697905e-05
@@ -80,8 +80,8 @@
 2.840826767904374058e-03
 3.124330449606245712e-03
 3.758063253253742051e-03
-3.739545391637863567e-03
-3.663278477191519219e-03
+3.751460162466342761e-03
+3.655275840249824076e-03
 3.029080319817841881e-03
 3.562935739136038980e-03
 2.639288449087558424e-03

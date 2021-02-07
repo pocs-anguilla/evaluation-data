@@ -10,5 +10,6 @@ dependencies:
 - matplotlib
 - pandas
 - jupyterlab
+- ipympl
 - pip:
   - py-cpuinfo
