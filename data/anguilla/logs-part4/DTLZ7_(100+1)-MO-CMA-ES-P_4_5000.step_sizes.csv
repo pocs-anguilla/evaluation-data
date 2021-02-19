@@ -1,5 +1,5 @@
-# Generated with anguilla 0.0.15, numpy 1.20.0
-# Machine: Intel(R) Core(TM) i7-4870HQ CPU @ 2.50GHz, 8 cores
+# Generated with anguilla 0.0.18, numpy 1.20.1
+# Machine: Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz, 8 cores
 # OS: Linux 4.19.121-linuxkit
 # Python: 3.8.6
 # Optimizer: (100+1)-MO-CMA-ES-P
@@ -10,7 +10,7 @@
 # Function-specific seed: None
 # Trial: 4
 # Evaluations: 5000
-# Elapsed time (wall-clock): 14.40s
+# Elapsed time (wall-clock): 12.52s
 # Observation: step_size
 # 
 1.418161788640387964e-02
@@ -29,7 +29,7 @@
 8.582549111729652347e-02
 8.074979367402411456e-02
 1.318560670786911582e-01
-1.124686801993536184e-01
+1.124686801993536461e-01
 1.001394955627989553e-01
 1.625093037660202966e-01
 1.092636929911981886e-01
